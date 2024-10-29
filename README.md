@@ -1,5 +1,11 @@
+
+https://github.com/user-attachments/assets/41067f60-477e-4256-986b-b6f64788db47
 # Countdown Timer App
-![Uploading Screenshot 2024-10-29 142224.png…]()
+![Screenshot 2024-10-29 142224](https://github.com/user-attachments/assets/f80f084b-8aff-4421-b60e-aa8ca61b2674)
+
+
+https://github.com/user-attachments/assets/0f066f8f-c7f7-43b3-80f4-492522aae0fe
+
 
 
 ## Overview
